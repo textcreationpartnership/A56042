@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for the better management of the affairs of the poor</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56042</idno>
+            <idno type="STC">Wing P3748</idno>
+            <idno type="STC">ESTC R217696</idno>
+            <idno type="EEBO-CITATION">99829350</idno>
+            <idno type="PROQUEST">99829350</idno>
+            <idno type="VID">33787</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56042)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33787)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1978:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for the better management of the affairs of the poor</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Goldsmiths' Company Library, University of London.</note>
+                  <note>Lu.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poor --  Services for --  Great Britain --  Early works to 1800.</term>
+               <term>Poor laws --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:33787:1"/>
+            <head>
+               <hi>PROPOSALS</hi> For the better Management of the Affairs of the <hi>POOR.</hi>
+            </head>
+            <p>ALthough many good Laws have formerly been made for Relief and Imployment of the Poor of this Kingdom, and of late ſeve<g ref="char:EOLhyphen"/>ral very Honourable Eſſayes by Propoſals for ſupplying the De<g ref="char:EOLhyphen"/>fects of ſuch Laws (as thoſe of Sir <hi>Joſiah Child,</hi> Mr. <hi>Firmin</hi> and others;) yet we find ſo little Remedy of the Evils thereby in<g ref="char:EOLhyphen"/>tended to be prevented, that many Hundreds of Beggars and Neceſſitous People go, lye, and are carryed about the Streets of this City and Sub<g ref="char:EOLhyphen"/>urbs, forced, as they ſay, to prevent their Starving: This being a very great diſhonour to the Chriſtian Profeſſion in General, and our Nation in Particular: Yet a great many Well-minded People are with Bowels of Compaſſion forced daily to be Eye Witneſſes of, whoſe Concern for thoſe Miſerable Objects is Augmented, when they conſider the Vaſt Sums of Money, that, by the Charity of our Predeceſſours, Standing Rates, Cuſtomary Collections, <hi>&amp;c.</hi> are appropriated to their Uſe.</p>
+            <p>The many Imbezzlements and Miſapplications of this Stock being, as we apprehend, the Principal Cauſe of all the Miſeries theſe Poor Wretches ſuſtain; having good reaſon to believe that the preſent In<g ref="char:EOLhyphen"/>comes to the Uſe of the Poor is ſufficient for their Maintenance, if un<g ref="char:EOLhyphen"/>der a better Management; eſpecially, when disburden'd of that great Number of Seamens Wives, Children, and Relations, whoſe Neceſſities for want of their timely pay, though in His Majeſties Service, forces them to apply themſelves for Relief, and neceſſitates the Pariſhes to contribute to their wants to prevent their periſhing: For the preven<g ref="char:EOLhyphen"/>tion of all which Evils for the future, and obtaining the good which will Naturally follow a better Regulation; Theſe following are humbly offer'd to your Serious Conſiderations.</p>
+            <pb n="2" facs="tcp:33787:2"/>
+            <p>That for the Future each Seamans Wife, or Perſon by him Impowred, ſhall receive every Third Moneth to him growing due to be paid at His Majeſties Pay Office in <hi>London.</hi>
+            </p>
+            <p>That all former Incorporated Bodies, intruſted with Power and Ma<g ref="char:EOLhyphen"/>nagement of the Affairs of the Poor, be diſſolv<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d.</p>
+            <p>That all Beggars, on what pretence ſoever be prohibited.</p>
+            <p>That all Feaſting upon Pariſh-Stocks be prohibited, and each Man ob<g ref="char:EOLhyphen"/>liged to bear the Charge of his Office in relation to the Poor, and pay as others.</p>
+            <p>That the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> Burrough of <hi>Southwark,</hi> and all other Places within the Bills of Mortality be Aſſociated into one Province or Body.</p>
+            <p>That there be one Aſſembly of Men Incorporated with perpetual Suc<g ref="char:EOLhyphen"/>ceſſion, by the Names of Fathers of the Poor; their Number to equalize the Pariſhes; to be Choſen once in Three Years at leaſt by the Majority of each Pariſh, out of the moſt Honourable, either of the City or Countrey, within Ten Miles of the Community.</p>
+            <p>That this great Body have power to make ſuch By-Laws, Ordinances and Orders as they ſhall think fit, for the good Governing, Imploying, and Maintaining the Poor; and Copies of all ſuch Laws by them made, preſented to the Honourable Houſe of Commons; Each firſt ſucceeding Seſſions by them to be Confirmed; or as likewiſe Annually for ever to deli<g ref="char:EOLhyphen"/>ver a Copy to the ſaid Honourable Houſe of the Preceeding<g ref="char:punc">▪</g> Years Pro<g ref="char:EOLhyphen"/>ceedings.</p>
+            <p>That the ſaid Corporation ſhall, and may, without Licence in <hi>Mort<g ref="char:EOLhyphen"/>main</hi> Purchaſe or Receive any Lands, Tenements, Hereditaments, not exceeding the Yearly Value of the Gift, Alienation, or Device of any Perſon or Perſons who ſhall be enabled to give the ſame, and any Goods, Chattels, or Sums of Money whatſoever to the uſe of the Poor.</p>
+            <p>That Four in each Pariſh, out of ſuch as have ſerved all other Pariſh-Offices, be Yearly Choſen Overſeers of the Poor.</p>
+            <p>That to Enable the Overſeers the better to Diſcharge their Truſt, and undergoe the Trouble, there be added to them a double Number, by the Name of Superviſors; Two of which to be the Church Wardens for the time being, the other to be Choſen out of ſuch as have ſerved all Ward and Pariſh-Offices, or Men of known Eſtate and Honeſty: The Choice to be by the Majority of Pariſhioners paying to the Poor; and for preven<g ref="char:EOLhyphen"/>ting all Miſtakes, Miſunderſtandings, or Clandeſtine Impoſitions in ſuch Choyce, the Clark of each Pariſh be obliged to make a Publick Declara<g ref="char:EOLhyphen"/>tion of Summons to the Pariſhioners the <hi>Sunday</hi> Preceeding the Choice; which ſhall be made the Succeeding Thurſday, by the Majority then ap<g ref="char:EOLhyphen"/>pearing.</p>
+            <pb n="3" facs="tcp:33787:2"/>
+            <p>That the Overſeers and Superviſors do meet in the Veſtry of the Re<g ref="char:EOLhyphen"/>ſpective Pariſh Churches every <hi>Sabbath-day</hi> in the Evening, immediately after Service or Sermon, to hear the Applications, and ſettle the Affairs of the Poor; but in caſe above Five of the Twelve be Abſent, all Buſi<g ref="char:EOLhyphen"/>neſs to be adjourn'd until the Major part ſhall meet.</p>
+            <p>That A Liſt be taken of all Gifts and other Incomes to the Uſe of the Poor; as likewiſe of all Penſioners and their Penſions; a Copy of which Yearly to be affixed in ſuch place of each Church, as the Body of Twelve ſhall appoint.</p>
+            <p>That each Overſeer with Two Superviſors take their Turns Weekly to viſit the Poor, and take Care of all Accidental, as Foundlings, <hi>&amp;c.</hi> as likewiſe of all ſuch who in that Week ſhall have applyed themſelves for Penſions, or other Aſſiſtance; and make the Report thereof to the Body the next Lords Day.</p>
+            <p>That each Overſeer Receive from the Body a Liſt of all Penſioners, and their Penſions under his Charge for the Succeeding Week.</p>
+            <p>That all Moneys as they grow due, either by Rents, Rates, Bells, Palls, Graves, Accidental Gifts, <hi>&amp;c.</hi> ſhall be received by the Overſeer that Week; he to be accountable to the Body the next <hi>Sabbath-day.</hi>
+            </p>
+            <p>That for each Pariſh a Cheſt be made with Three different Locks, the Keys to be intruſted in the hands of Three of the Eldeſt of the Body of Twelve; in which Cheſt ſhall be kept in a Book fairly written, the Account of each Preceeding Week ſign'd by all the Members preſent at the paſſing thereof; as likewiſe all Moneys that ſhall be in Stock and Wri<g ref="char:EOLhyphen"/>ting, as belong to the Pariſh in right of the Poor. This Cheſt not to be opened but in Preſence of Two at leaſt of the Intruſted Members.</p>
+            <p>That this Body have Power to Demand of any Perſon or Perſons, the Inſpections of all Papers or Writings whatſoever, in order to the Diſ<g ref="char:EOLhyphen"/>covery of any Clandeſtine Mortgages, Sales, or other Illegal Conveyances or Settlements: As likewiſe to Sue for, and proſecute the Rights of each Pariſh in any Courts of Law or Equity; Free of any Fees whatſoe<g ref="char:EOLhyphen"/>ver, the Proſecution being in Right of True Paupers.</p>
+            <p>That for the more Regular Management and Settling the Succeſſion of this Society Yearly, with the Four Overſeers and Two Church-Wan<g ref="char:EOLhyphen"/>dens, Three, of the Superviſors go off. Their Vacancies to be ſupplyed, as in the Ninth Article,</p>
+            <p>That for the timely prevention of thoſe Miſchiefs which will attend any Miſtakes that this Body may, its poſſible, commit; they ſhall be ob<g ref="char:EOLhyphen"/>lig'd within Fourteen dayes after each Quarter-Day, to carry in to the Fathers at ſuch place as by them ſhall be appointed, their Originals, Weekly Books; and Yearly preſent a Copy of the Liſt, as in the Eleventh Article.</p>
+            <pb n="4" facs="tcp:33787:3"/>
+            <p>That each Member of either the Great or Leſſer Bodies, be obliged to Act in his Station upon the Penalty of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> As like<g ref="char:EOLhyphen"/>wiſe each Pariſh to chooſe their Member or Repreſentative within the time limited, upon the Penalty of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+            </p>
+            <p>That in all Future Rates or Aſſeſsments to be made for the Poor, every Man qualify'd may have his Voice by his Repreſentative; Twelve Men be Yearly Choſen in the Method, (as in the Ninth Article) and added to the Body of Twelve; which Twenty Four ſhall have Power to Compleat and Impoſe all Rates, and all Perſons aggrieved to appeal to the Fathers.</p>
+            <p>How Honourable will the Memory of that Seſſions be, to this and Fu<g ref="char:EOLhyphen"/>ture Ages, who are Founders of ſuch, or like Conſtitutions; when as the Effects of them, they ſee ſuch Bodies of Worthy Men diſcharging their Pa<g ref="char:EOLhyphen"/>ternal Duty to Widows, Orphans, Strangers, and Neceſſitous People.</p>
+            <p>Such Regular Buildings in each Quarter of the Society, that one may contain Six or Seven Hundred People, with ſuch Governours, Matrons and Inferiour Officers, whoſe Exemplary Lives, in all Modeſty and Honeſty, may be of great Service to thoſe Poor, Ruff, and Unpolliſh'd People.</p>
+            <p>Thoſe that before were almoſt Eaten up with Filth and Vermin, Cloa<g ref="char:EOLhyphen"/>thed with Nautious Rags and Dirt; now of Cleanly and Wholeſome Countenance, in Modeſt Cloath, Tight and Whole in Shoes, Stockings, and Linnen.</p>
+            <p>Thoſe that before did Eat, and were Lodg'd more like Brutes than Mankind; now Twice <hi>per</hi> Day, Sitting, Eating, and Drinking Good and Wholeſome Proviſions, and in Order: And that which is moſt Praiſe<g ref="char:EOLhyphen"/>worthy, Taught ſenſibly to crave a Bleſſing from the Lord upon, and Return Thanks for his Daily Proviſions: And for their Reception at Night, Good and Cleanly Lodgings prepared.</p>
+            <p>Thoſe that whil'ſt unhiv'd were a Swarm of Droans and Peſt to the Society, become (oh a Miracle) Induſtrious Bees, each contributing ſome<g ref="char:EOLhyphen"/>thing to the ſupport of the General; ſuch a Number in the Service of the Kitchen, ſuch in the Laundrey, ſuch in the Wardrobe, ſuch in the Nur<g ref="char:EOLhyphen"/>ſary, ſuch in the Looking after, and Attending Aged, Bed-Ridden, and Helpleſs People, ſuch to the School, ſuch to Inſtructing thoſe thereunto appointed by the Superiours in the uſe of the Hatchel and Wheel. And ſuch as Inſtructed at Work on the Stocks of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lax brought into the Houſe to be Manur'd by the good Houſe-Wives of the Neighbourhood. Much more of the ſame Nature might be added, but for brevity fake omitted.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
